@@ -13,3 +13,6 @@ Challenge link: https://github.com/MilenaCarecho/30diasDeCSS
 ### DAY 02 - [Animated Loader](https://github.com/myriankatto/30daysofcss/tree/master/Challenges/day02)
 ![Animated Loader Challenge](https://github.com/myriankatto/30daysofcss/blob/master/Challenges/gifs/day02.gif)
 
+
+### DAY 03 - [Animated Color Text](https://github.com/myriankatto/30daysofcss/tree/master/Challenges/day03)
+![Animated Loader Challenge](https://github.com/myriankatto/30daysofcss/blob/master/Challenges/gifs/day03.gif)
