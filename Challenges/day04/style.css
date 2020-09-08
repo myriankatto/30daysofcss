@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  width: 200px;
+  height: 60px;
+  background: none;
+  border: 4px solid black;
+  color: #000;
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-size: 1em;
+  position: relative;
+  margin-right: 3em;
+  outline: none;
+}
+
+.one::before,
+.one::after {
+  content: '';
+  position: absolute;
+  width: 14px;
+  height: 4px;
+  background: #fff;
+  transform: skewX(50deg);
+  transition: 0.4s linear;
+}
+.one::before {
+  top: -4px;
+  left: 10%;
+}
+.one::after {
+  bottom: -4px;
+  right: 10%;
+}
+.one:hover::before {
+  left: 80%;
+}
+.one:hover::after {
+  right: 80%;
+}
+
+.two {
+  overflow: hidden;
+  transition: all 0.5s;
+}
+.two:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgb(196, 255, 222);
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  transition: all 0.5s;
+}
+.two:hover:before {
+  transform: translateX(100%);
+}
+.two:hover {
+  color: #000;
+}
+
+.three {
+  outline: 0;
+  font-weight: bold;
+  position: relative;
+  border: 0;
+}
+
+.three::before,
+.three::after {
+  position: absolute;
+  content: '';
+  right: 0;
+  top: 0;
+  background: black;
+  transition: all 0.3s ease;
+}
+
+.three::before,
+.three::after {
+  position: absolute;
+  content: '';
+  left: 0;
+  bottom: 0;
+  background: black;
+  transition: all 0.3s ease;
+}
+
+.three::before {
+  width: 4px;
+  height: 40%;
+}
+
+.three::after {
+  width: 15%;
+  height: 4px;
+}
+
+.three:hover::before {
+  height: 100%;
+}
+
+.three:hover::after {
+  width: 100%;
+}
+
+.three span {
+
+  color: black;
+  width: 100%;
+  height: 100%;
+}
+
+.three span:before,
+.three span:after {
+  position: absolute;
+  content: '';
+  right: 0;
+  bottom: 0;
+  background: black;
+  transition: all 0.3s ease;
+}
+
+.three span:before {
+  width: 4px;
+  height: 40%;
+}
+
+.three span:after {
+  width: 15%;
+  height: 4px;
+}
+
+.three span:hover:before {
+  height: 100%;
+}
+
+.three span:hover:after {
+  width: 100%;
+}
