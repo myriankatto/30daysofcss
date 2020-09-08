@@ -20,3 +20,7 @@ Challenge link: https://github.com/MilenaCarecho/30diasDeCSS
 
 ### DAY 04 - [Animated Buttons](https://github.com/myriankatto/30daysofcss/tree/master/Challenges/day04)
 ![Animated Buttons](https://github.com/myriankatto/30daysofcss/blob/master/Challenges/gifs/day04.gif)
+
+
+### DAY 05 - [Pulse Effect](https://github.com/myriankatto/30daysofcss/tree/master/Challenges/day05)
+![Pulse Effect](https://github.com/myriankatto/30daysofcss/blob/master/Challenges/gifs/day05.gif)
