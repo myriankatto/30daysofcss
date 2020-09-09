@@ -27,5 +27,5 @@ Challenge link: https://github.com/MilenaCarecho/30diasDeCSS
 
 
 
-### DAY 05 - [Lightning Text Effect](https://github.com/myriankatto/30daysofcss/tree/master/Challenges/day06)
+### DAY 06 - [Lightning Text Effect](https://github.com/myriankatto/30daysofcss/tree/master/Challenges/day06)
 ![Lightning Text Effect](https://github.com/myriankatto/30daysofcss/blob/master/Challenges/gifs/day06.gif)
