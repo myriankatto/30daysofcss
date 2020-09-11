@@ -33,3 +33,8 @@ Challenge link: https://github.com/MilenaCarecho/30diasDeCSS
 
 ### DAY 07 - [Animated Preloader](https://github.com/myriankatto/30daysofcss/tree/master/Challenges/day07)
 ![Animated Preloader](https://github.com/myriankatto/30daysofcss/blob/master/Challenges/gifs/day07.gif)
+
+
+### DAY 08 - [Heart Beating](https://github.com/myriankatto/30daysofcss/tree/master/Challenges/day08)
+![Heart Beating](https://github.com/myriankatto/30daysofcss/blob/master/Challenges/gifs/day08.gif)
+
